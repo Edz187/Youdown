@@ -1,4 +1,4 @@
-# 🚀 LogoAGG — Landing Page para Prática de Conhecimentos
+# 🚀 Youdown — Landing Page para Prática de Conhecimentos
 
 Projeto de **landing page** criado com o objetivo de **praticar e evoluir conhecimentos em desenvolvimento web**.  
 Foco em layout, organização visual e conceitos básicos de front-end ✨
